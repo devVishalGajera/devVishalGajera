@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Develope
 I'm always excited about new opportunities and interesting projects. If you're working on something cool and think I can contribute, feel free to reach out!
 
 ## 💬 Get in touch
-- LinkedIn: [Vishal Gajera](https://linkedin.com/in/your-linkedin-profile)
+- LinkedIn: [Vishal Gajera](https://www.linkedin.com/in/vishal-gajera-3b51b0208)
+- Stackoverflow: [Vishal Gajera](https://stackoverflow.com/users/21631269/vishal-gajera?tab=profile)
 - Email: vishalgajera101@gmail.com
 
 ## 📝 Check out my recent projects
