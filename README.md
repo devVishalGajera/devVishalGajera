@@ -26,3 +26,6 @@ I'm always excited about new opportunities and interesting projects. If you're w
 When I'm not coding, you can find me on tour as tourist or exploring new coffee shops or restaurants in town. I believe in maintaining a healthy work-life balance to fuel creativity and productivity.
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to connect with me. Let's create something awesome together! 🚀✨
+
+## 💡 Instrested to learn
+I am looking forward to make my career in this tech Python, Blockchain, DevOps and cyber security
