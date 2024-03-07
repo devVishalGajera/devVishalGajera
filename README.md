@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vishal Gajera
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Developer with 2.5+ years of experience. I love crafting efficient and intuitive web applications that make a positive impact.
+Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Developer with 4+ years of experience. I love crafting efficient and intuitive web applications that make a positive impact.
 
 ## 🔭 What I'm currently working on
 - Building a robust recruiting platform using Next Js.
