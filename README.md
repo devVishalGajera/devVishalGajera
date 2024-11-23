@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Vishal Gajera
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=devVishalGajera)
 
 Welcome to my GitHub profile! I'm a passionate and dedicated Full Stack Developer with 4+ years of experience. I love crafting efficient and intuitive web applications that make a positive impact.
 
